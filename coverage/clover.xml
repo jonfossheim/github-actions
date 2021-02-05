@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1612521322422" clover="3.2.0">
-  <project timestamp="1612521322422" name="All files">
+<coverage generated="1612522023271" clover="3.2.0">
+  <project timestamp="1612522023272" name="All files">
     <metrics statements="16" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6" elements="23" coveredelements="21" complexity="0" loc="16" ncloc="16" packages="1" files="4" classes="4"/>
     <file name="cloneArray.js" path="/Users/jerrik/Projects/Noroff/Lessons/Workflow2_Module2/Lesson2/github-actions/src/cloneArray.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>

@@ -1,9 +1,9 @@
 module.exports = {
    sum: function sum(a, b) {
-      return a + a;
+      return a + b;
    },
    sum3: function sum3(a, b, c) {
-      return a + b + b;
+      return a + b + c;
    },
 };
 
