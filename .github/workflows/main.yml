@@ -34,6 +34,7 @@ jobs:
            run: |
               echo Add other actions to build,
               echo test, and deploy your project.
-         - name: Run test scripts
+         - name: Run install
            run: yarn install
+         - name: run tests
            run: yarn test
